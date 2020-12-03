@@ -29,3 +29,4 @@ stpbl3.onmouseout = function () {
 }
 
 console.log('Test 2');
+console.log('Test 2');
