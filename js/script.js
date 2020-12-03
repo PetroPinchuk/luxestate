@@ -27,3 +27,5 @@ stpbl3.onmouseover = function () {
 stpbl3.onmouseout = function () {
   stpbrdr3.style.borderBottom = "3px solid black";
 }
+
+console.log('Test 2');
